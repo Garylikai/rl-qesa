@@ -46,7 +46,7 @@ The paper reports faster convergence and lower terminal energies than the classi
 
 ## Repository scope
 
-This is an independent publication landing page maintained by Kai Li, a coauthor of the paper. It links to the public author-team paper but does **not** redistribute the paper PDF, source code, data, figures, configurations, or generated results. It should not be described as the official implementation unless the author team later releases and designates one.
+This is an independent publication landing page maintained by Kai Li, a co-first author of the paper. It links to the public author-team paper but does **not** redistribute the paper PDF, source code, data, figures, configurations, or generated results. It should not be described as the official implementation unless the author team later releases and designates one.
 
 ## Citation
 
