@@ -24,7 +24,7 @@ The paper combines:
 - proximal policy optimization for training the cooling policy; and
 - fixed-variance Metropolis-Hastings proposals within each temperature block.
 
-Under the assumptions stated in the paper, the quasi-equilibrium constraint preserves the global-convergence properties associated with classical simulated annealing while permitting adaptive cooling.
+Under the assumptions stated in the paper, the quasi-equilibrium constraint preserves the global convergence properties associated with classical simulated annealing while permitting adaptive cooling.
 
 ## Evaluation
 
@@ -33,7 +33,7 @@ The study evaluates RL-QESA on two nonconvex optimization benchmarks:
 - multidimensional Rosenbrock functions; and
 - Lennard-Jones cluster potentials.
 
-The paper reports faster convergence and lower terminal energies than the classical and neural simulated-annealing baselines considered in the reported experimental settings.
+The paper reports faster convergence and lower terminal energies than the classical and neural simulated annealing baselines considered in the reported experimental settings.
 
 ## Authors
 
